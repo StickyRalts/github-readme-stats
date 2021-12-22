@@ -348,6 +348,12 @@ const themes = {
     text_color: "574038",
     bg_color: "F5E1C0",
   },
+  dodopool: {
+    title_color: "A32633",
+    icon_color: "962333",
+    text_color: "60262C",
+    bg_color: "13171B",
+  },
 };
 
 module.exports = themes;
