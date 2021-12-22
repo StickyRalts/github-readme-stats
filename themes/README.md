@@ -34,7 +34,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `ocean_dark` ![ocean_dark][ocean_dark] | `city_lights` ![city_lights][city_lights] | `github_dark` ![github_dark][github_dark] |
 | `discord_old_blurple` ![discord_old_blurple][discord_old_blurple] | `aura_dark` ![aura_dark][aura_dark] | `panda` ![panda][panda] |
 | `noctis_minimus` ![noctis_minimus][noctis_minimus] | `cobalt2` ![cobalt2][cobalt2] | `swift` ![swift][swift] |
-| `aura` ![aura][aura] | `apprentice` ![apprentice][apprentice] | `moltack` ![moltack][moltack] |
+| `aura` ![aura][aura] | `apprentice` ![apprentice][apprentice] | `moltack` ![moltack][moltack] | `dodopool` ![dodopool][dodopool] |
 | [Add your theme][add-theme] | | |
 
 ## Repo Card
